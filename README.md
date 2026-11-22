@@ -11,3 +11,25 @@
 <p align="center">
   Building projects, learning new technologies, and turning ideas into code.
 </p>
+
+
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm an AI & Data Science student and software developer
+  passionate about building real-world applications.
+</p>
+
+<p align="center">
+  🌱 Currently learning MERN Stack, Java DSA & AI<br>
+  💡 Interested in AI, Machine Learning & Agentic AI<br>
+  💻 Building projects and improving my development skills<br>
+  🎯 Goal: Become an AI Engineer
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
